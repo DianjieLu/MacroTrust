@@ -1,5 +1,6 @@
 # MacroTrust
 SourceCode-Towards a Trust Ecosystem for Crowdsourcing IoT Services: A Macro Perspective
+
 This project provides a comparison between theoretical and experimental results in trust networks with a Poisson degree distribution, as shown in Fig. 7 of our paper.
 
 It contains seven files, described as follows. 
